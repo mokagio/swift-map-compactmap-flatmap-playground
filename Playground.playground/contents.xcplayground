@@ -4,5 +4,6 @@
         <page name='map'/>
         <page name='compactMap'/>
         <page name='flatMap'/>
+        <page name='forEach-vs-for-loop'/>
     </pages>
 </playground>
