@@ -3,5 +3,6 @@
     <pages>
         <page name='map'/>
         <page name='compactMap'/>
+        <page name='flatMap'/>
     </pages>
 </playground>
